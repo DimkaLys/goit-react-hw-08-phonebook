@@ -1,0 +1,1 @@
+{"version":3,"sources":["Pages/HomePage/HomePage.js"],"names":["HomePage"],"mappings":"0MAAe,SAASA,IACtB,OACE,8BACE","file":"static/js/6.b5f8ab3a.chunk.js","sourcesContent":["export default function HomePage() {\n  return (\n    <div>\n      <h1>Phonebook</h1>\n    </div>\n  );\n}\n"],"sourceRoot":""}

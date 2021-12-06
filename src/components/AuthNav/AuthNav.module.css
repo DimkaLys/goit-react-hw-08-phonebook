@@ -1,0 +1,17 @@
+.container {
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.link {
+  display: inline-block;
+  text-decoration: none;
+  margin: 28px;
+}
+.activeLink {
+  display: inline-block;
+  text-decoration: none;
+  margin: 28px;
+}

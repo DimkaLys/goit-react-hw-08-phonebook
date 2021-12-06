@@ -1,0 +1,19 @@
+.nav {
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: left;
+}
+
+.link {
+  display: inline-block;
+  text-decoration: none;
+  margin: 28px;
+}
+
+.activeLink {
+  display: inline-block;
+  text-decoration: none;
+  margin: 28px;
+}
